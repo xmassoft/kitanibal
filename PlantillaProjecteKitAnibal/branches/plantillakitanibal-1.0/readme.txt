@@ -1,1 +1,1 @@
-Funcionament general
+Funcionament Projecte general
