@@ -1,1 +1,1 @@
-Funcionament Projecte general
+Funcionament Projecte Plantilla
